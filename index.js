@@ -1,17 +1,21 @@
 const express = require("express");
 const cors = require("cors");
+const userRoute = require("./routes/users.route");
 
 const app = express();
 const port = process.env.PORT || 5000;
 
+// middleware
 app.use(express.json());
 app.use(cors());
+
+app.use("/user", userRoute);
 
 app.get("/", (req, res) => {
   res.status(200).send("random user api servr running..");
 });
 
-app.get("*", (req, res) => {
+app.all("*", (req, res) => {
   res.status(403).send("No Route Found!");
 });
 
