@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "gender": "male",
+    "name": "vabnar biye",
+    "contact": "000",
+    "address": "mahignaj",
+    "photoUrl": "photourl"
+  },
+  {
+    "id": 2,
+    "gender": "male",
+    "name": "New roy",
+    "contact": "PET COCO KORTACE",
+    "address": "mahignaj",
+    "photoUrl": "photourl"
+  },
+  {
+    "id": 3,
+    "gender": "male",
+    "name": "rabi roy",
+    "contact": "000",
+    "address": "mahignaj",
+    "photoUrl": "photourl"
+  },
+  {
+    "id": 4,
+    "gender": "male",
+    "name": "shadin roy",
+    "contact": "88888888-111",
+    "address": "mahignaj",
+    "photoUrl": "photourl"
+  }
+]
