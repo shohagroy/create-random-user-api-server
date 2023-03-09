@@ -44,7 +44,7 @@ module.exports.postNewUser = (req, res) => {
             if (err) {
               res.status(403).send("Filed! can't update user! try agin.");
             } else {
-              res.status(200).send("Successfully user added file");
+              res.status(200).send("Successfully user added!");
             }
           });
         } else {
