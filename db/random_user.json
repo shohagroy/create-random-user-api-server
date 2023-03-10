@@ -1,13 +1,5 @@
 [
   {
-    "id": 1,
-    "gender": "male",
-    "name": "vabnar biye",
-    "contact": "000",
-    "address": "mahignaj",
-    "photoUrl": "photourl"
-  },
-  {
     "id": 2,
     "gender": "male",
     "name": "New roy",
@@ -30,21 +22,5 @@
     "contact": "88888888-111",
     "address": "mahignaj",
     "photoUrl": "photourl"
-  },
-  {
-    "id": 1,
-    "gender": "male",
-    "name": "shohag roy",
-    "contact": "01760567555",
-    "address": "mahiganj, rangpur",
-    "photoUrl": "photo user link hare"
-  },
-  {
-    "id": 1,
-    "gender": "male",
-    "name": "shohag roy",
-    "contact": "01760567555",
-    "address": "mahiganj, rangpur",
-    "photoUrl": "photo user link hare"
   }
 ]
